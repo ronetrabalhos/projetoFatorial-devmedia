@@ -1,11 +1,6 @@
 public class Fatorial{
 
-    /*
-    public static void main (string [] args){
-        system.out.println(calcularFatorial(5));
-    }
-    */
-
+ // versão interatica do calculo fatorial
     public int calcularFatorial(){
         int resultado = 1;
 
