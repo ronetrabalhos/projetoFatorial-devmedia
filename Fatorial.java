@@ -8,5 +8,8 @@ public class Fatorial{
             resultado* = i;
         
         return resultado;
+
+        // Inseri este comentário apenas para testar
+        // o commit com o SourceTree
     }
 }
