@@ -1,3 +1,5 @@
-Esses arquivo foi criado em uma pasta clonada do github sem inicialização como repositorio GIT
+Esse arquivo foi criado em uma pasta clonada do github sem inicialização como repositorio GIT
+
 Testar o git commit
+
 Testar o git push
